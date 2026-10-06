@@ -1,27 +1,33 @@
-# Hi
+# Hi 👋
 
 Hello! My name is **Geronimo Martinez Nuñez**.
 
-I’m a **Systems Engineering Student** and **Full Stack Developer**, with a strong interest in **cloud systems, distributed architectures, and applied AI**.  
+I’m a **Software Engineer** focused on **backend development, distributed systems, and cloud technologies**, with additional experience in **data processing and AI-powered automation**.
 
-I enjoy building backend and frontend applications, designing scalable systems, and experimenting with automation and intelligent agents to solve real-world problems.
+I enjoy designing and building software that solves real-world problems, from REST APIs and real-time services to cloud-deployed applications and automation workflows.
 
-## What I do
+## What I Do
 
-- Backend and frontend development  
-- RESTful and real-time systems (WebSockets)  
-- Cloud deployment and distributed architectures  
-- Automation workflows and AI-assisted solutions  
+- Backend development with **Java, Python, Spring Boot, and FastAPI**
+- RESTful APIs and real-time systems using **WebSockets**
+- Distributed architectures and concurrent data processing
+- Database design and data processing with **PostgreSQL, MySQL, Redis, and MongoDB**
+- Cloud deployment and CI/CD with **AWS, Azure, Docker, and GitHub Actions**
+- Automation workflows and AI-powered solutions using **LangChain and Python**
 
 ## Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,react,nodejs,fastapi,spring,mysql,postgres,mongodb,git,github,docker,linux,aws,azure,vscode,idea,pycharm,webstorm&perline=10)
+![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,fastapi,spring,mysql,postgres,mongodb,redis,git,github,docker,linux,aws,azure,vscode,idea,pycharm&perline=10)
 
-## Pronouns
+## Featured Projects
 
-- He / She / Any
+### Artelier
+An e-commerce platform for a real artisanal ceramics business. Currently in **MVP development**, with a backend built using **Java, Spring Boot, PostgreSQL, Redis, Docker, and GitHub Actions**, including payment integration with Wompi.
 
-## Connect with me
+### CityPulse Live
+A distributed real-time event platform built with **Python, FastAPI, WebSockets, PostgreSQL, Redis, Docker, and AWS**, focused on processing geolocated data and handling concurrent workloads.
+
+## Connect With Me
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MimiRandomS)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/geronimo-martinez-nunez/)
